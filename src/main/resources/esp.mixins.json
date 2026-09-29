@@ -1,0 +1,1 @@
+{"required":true,"package":"com.nonamemods.esp.mixin","compatibilityLevel":"JAVA_21","client":["WorldRendererMixin"],"injectors":{"defaultRequire":1}}
